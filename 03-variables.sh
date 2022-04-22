@@ -23,3 +23,4 @@ echo Add = $ADD
 
 c=(10 20 hk vai)
 echo First Value of Array =${c[0]}
+
