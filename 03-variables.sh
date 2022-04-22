@@ -10,3 +10,16 @@ echo ${b}
 
 DATE=2022-04-22
 echo today date is $DATE
+
+DATE=$(date +%F)
+echo today date is $DATE
+
+x=20
+y=30
+ADD=$($x+y)
+echo Add = $ADD
+
+##Arrays
+
+c=(10 20 hk vai)
+echo First Value of Array =${c[0]}
